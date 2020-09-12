@@ -1,4 +1,4 @@
-> It's my note only. But, please study with me if you are too. Thanks.
+> It's my note only. But, please study with me if you are too. I'll build the kanban to tracking very soon. Thanks.
 
 ## Learning English
 
