@@ -1,5 +1,14 @@
 > It's my note only. But, please study with me if you are too. I'll build the kanban to tracking very soon. Thanks.
 
+
+## Interview question
+- https://github.com/chiphuyen/machine-learning-systems-design
+- https://leetcode.com/discuss/interview-question/545092/machine-learning-engineer-facebook
+- https://leetcode.com/discuss/general-discussion/549200/machine-learning-engineer-at-google
+- https://leetcode.com/discuss/interview-experience/512591/Google-or-Machine-Learning-Engineer-or-Bangalore-or-Dec-2019-Reject
+- https://leetcode.com/discuss/interview-question/444466/Machine-Learning-Engineer-Etsy
+- 
+
 ## Learning English
 
 ### App
@@ -10,8 +19,6 @@
 
 ### Offline
 
-
-
 ## Learning Microservice with Dapr
 
 ### Microservice
@@ -19,8 +26,6 @@
 ### Dapr
 
 ### Example
-
-
 
 ## Learning machine learning and deep learning
 
